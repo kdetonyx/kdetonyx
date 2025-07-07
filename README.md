@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there   Welcome to my GitHub profile 👋
 
-<!--
-**kdetonyx/kdetonyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Skills and descriptions:
 
-Here are some ideas to get you started:
+🔭 I’m currently working in the **banking sector**, focusing on technology onpremise/cloud:azure, aws, middleware, automation, and system reliability aka SRE.  
+🌱 I’m currently expanding my skills in **Azure, Docker, Kubernetes, OpenShift**, and **Security on Cloud computing**.  
+👯 I’m open to collaborating on **BallenaRoja** and other exciting DevOps/SRE/Cloud/Cybersecurity projects.  
+💬 Feel free to ask me about **SRE, DevOps practices**, or anything related to **Linux system administration**.  
+   I hold certifications such as **RHCSA, RHCE**, and **DevOps Fundamentals**,  and I’m a **Systems Engineer** with a **Master’s degree in Cybersecurity and Data Protection**.
+📫 How to reach me: [kdetony@ballenaroja.services]  
+😄 Pronouns: he/him  
+⚡ Fun fact: I automate everything... even my coffee machine ☕🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 _Também falo português! Sinta-se à vontade para entrar em contato._
